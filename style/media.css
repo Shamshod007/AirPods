@@ -1,0 +1,15 @@
+@media(max-width: 1024px){
+    .button__nav{
+        flex-wrap: wrap;
+        gap: 30px;
+    }
+    .section__nav{
+        flex-direction: column;
+    }
+    .main__box{
+        flex-direction: column;     
+    }
+    .main__nav{
+        flex-direction: column;
+    }
+}
